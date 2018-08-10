@@ -1,0 +1,26 @@
+{
+  "name": "pangsystems",
+  "version": "1.0.0",
+  "description": "Easily create reusable systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fritzdenim/pangSystems.git"
+  },
+  "keywords": [
+    "systems"
+  ],
+  "author": "Franz Noel Tanglao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fritzdenim/pangSystems/issues"
+  },
+  "homepage": "https://github.com/fritzdenim/pangSystems#readme",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "sequential-ids": "0.0.0"
+  }
+}
