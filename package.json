@@ -4,7 +4,7 @@
   "description": "Easily create reusable systems",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "dependencies": {
     "moment": "^2.22.2",
     "sequential-ids": "0.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
   }
 }
